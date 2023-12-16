@@ -19,4 +19,4 @@ The dataset used in this project is ZAEBUC, it can be downloaded from [here](htt
 Samer Lexicon was used to extract the readability levels of the words. The Samer lexicon can be downloaded from [here](https://camel.abudhabi.nyu.edu/samer-readability-lexicon/).
 
 
-
+## Model weights can be found here: https://mbzuaiac-my.sharepoint.com/:f:/g/personal/sanad_shaban_mbzuai_ac_ae/Eq50I4jPUOBCsfZkbz9kFNcBXbV0-2wt2ZXcLqZWW9ezBg?e=tNRSwr 

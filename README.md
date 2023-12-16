@@ -14,7 +14,9 @@ documents_features.csv: features of each document
 
 
 ## Dataset
-The dataset used in this project is ZAEBUC, it can be downloaded from href[here](https://sites.google.com/view/zaebuc/home).
+The dataset used in this project is ZAEBUC, it can be downloaded from [here](https://sites.google.com/view/zaebuc/home).
 
-Samer Lexicon was used to extract the readability levels of the words. The Samer lexicon can be downloaded from [here](https://camel.abudhabi.nyu.edu/samer-readability-lexicon/)
+Samer Lexicon was used to extract the readability levels of the words. The Samer lexicon can be downloaded from [here](https://camel.abudhabi.nyu.edu/samer-readability-lexicon/).
+
+
 
